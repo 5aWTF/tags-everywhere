@@ -1,0 +1,23 @@
+{
+  "name": "5aWTF/tags-everywhere",
+  "description": "Tags Everywhere - Flarum extension",
+  "type": "flarum-extension",
+  "keywords": ["flarum", "extension", "tags"],
+  "homepage": "https://github.com/5awtf/tags-everywhere",
+    "authors": [
+        {
+            "name": "5aWTF",
+            "email": "admnin@5a.wtf"
+        }
+    ],
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Tags Everywhere",
+      "icon": "fas fa-tags"
+    }
+  }
+}
